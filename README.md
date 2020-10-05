@@ -1,6 +1,14 @@
 # SaRS-Covid-2020-Vigo
 
-Contigs reportados por viaDBG para los datasets provistos. Salvo para el directorio "33_0/" que se corresponde con el dataset 3.C3_0 el resto solo contienen los contigs reportados en formato fasta, el nombre del archivo hace referencia a: "dataset.kmer_size.fa". En el caso de 3.C3_0 o 33_0 se tienen más documentos para poder realizar la visualización de las variantes via sequencetubemap (https://github.com/vgteam/sequenceTubeMap).
+Contigs reportados por viaDBG para los datasets provistos. Salvo para el directorio "33_0/" que se corresponde con el dataset 3.C3_0 el resto solo contienen los contigs reportados en formato fasta, . En el caso de 3.C3_0 o 33_0 se tienen más documentos para poder realizar la visualización de las variantes via sequencetubemap (https://github.com/vgteam/sequenceTubeMap).
+
+La información provista por directorio sería:
+ * Contigs reportados por viaDBG - el nombre del archivo hace referencia a: "dataset.kmer_size.fa"
+ * Consensus (ivar) por dataset - consensus.fa
+ * Evaluación de resultados a través de metaquast (https://github.com/ablab/quast)
+  * MN908947.3 as reference.
+  * Consensus as reference.
+ * Variantes reportadas por iVar.
 
 # Table summary reports
 
