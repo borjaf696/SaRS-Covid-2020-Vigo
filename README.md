@@ -15,3 +15,7 @@ Contigs reportados por viaDBG para los datasets provistos. Salvo para el directo
 | 84_380  | 26                 | 10208 | 23.63                           | 195.77                          | 99.33                         | 151855                    | 99.07                         | 151855                    | 151877      | 99.98                 | 15979             |
 | 84_3_80 | 20                 | 11286 | 20.25                           | 195.79                          | 99.32                         | 175922                    | 99.06                         | 175922                    | 175937      | 99.99                 | 22293             |
 
+La tabla de resultados muestra una recopilación de estadísticos de importancia en la evaluación de los ensambladores tradicionales:
+  * #Contigs o número de contigs de más de 500 bases de longitud - el número reportado por viaDBG suele ser ligeramente más alto del ideal pues comete en ocasiones el error de construir vías duplicadas (en vías de arreglo).
+  * N50 o "media" de la longitud de los contigs, entendiendo en este caso la "media" como el contig de menor tamaño tal que con contigs de todo tamaño superior se alcanza el 50% de la longitud del genoma de referencia.
+  * Se muestran los resultados de mismatches, % genoma recuperado, bases alineadas, bases total y alineamiento más largo frente a la secuencia consenso producida con el pipeline de iVar (https://github.com/andersen-lab/ivar) y frente a la referencia original (MN908947.3).
