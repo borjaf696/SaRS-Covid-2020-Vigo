@@ -6,8 +6,9 @@ La información provista por directorio sería:
  * Contigs reportados por viaDBG - el nombre del archivo hace referencia a: "dataset.kmer_size.fa"
  * Consensus (ivar) por dataset - consensus.fa
  * Evaluación de resultados a través de metaquast (https://github.com/ablab/quast)
-  * MN908947.3 as reference.
-  * Consensus as reference.
+   
+   * MN908947.3 as reference.
+   * Consensus as reference.
  * Variantes reportadas por iVar.
 
 # Table summary reports
