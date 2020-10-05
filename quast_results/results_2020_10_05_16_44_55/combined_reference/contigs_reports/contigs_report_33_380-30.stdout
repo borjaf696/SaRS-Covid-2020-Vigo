@@ -1,0 +1,200 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [consensus_Consensus_consensus_threshold_0_quality_20]
+	Total Regions: 1
+	Total Region Length: 29857
+Analyzing contigs...
+CONTIG: 0 (3440bp)
+Best alignment score: 3439.0 (LEN: 3440, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 15839 19277 | 1 3440 | 3439 3440 | 99.97 | consensus_Consensus_consensus_threshold_0_quality_20 0
+
+CONTIG: 1 (1239bp)
+Best alignment score: 1238.0 (LEN: 1238, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21087 22324 | 1239 2 | 1238 1238 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 1
+
+CONTIG: 3 (1238bp)
+Best alignment score: 1237.0 (LEN: 1237, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21087 22323 | 1238 2 | 1237 1237 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 3
+
+CONTIG: 4 (2315bp)
+Best alignment score: 2313.1 (LEN: 2314, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 16965 19277 | 2 2315 | 2313 2314 | 99.96 | consensus_Consensus_consensus_threshold_0_quality_20 4
+
+CONTIG: 5 (3101bp)
+Best alignment score: 3100.1 (LEN: 3101, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 26006 29105 | 3101 1 | 3100 3101 | 99.97 | consensus_Consensus_consensus_threshold_0_quality_20 5
+
+CONTIG: 6 (9522bp)
+Best alignment score: 9520.0 (LEN: 9521, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 9544 | 9522 2 | 9521 9521 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 6
+
+CONTIG: 7 (19254bp)
+Best alignment score: 19253.0 (LEN: 19253, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 24 19276 | 19254 2 | 19253 19253 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 7
+
+CONTIG: 8 (17068bp)
+Best alignment score: 17065.3 (LEN: 17067, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 17089 | 17068 2 | 17066 17067 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 8
+
+CONTIG: 9 (845bp)
+Best alignment score: 843.0 (LEN: 844, IDY: 99.88), Total number of alignments: 1
+		One align captures most of this contig: 28994 29836 | 2 845 | 843 844 | 99.88 | consensus_Consensus_consensus_threshold_0_quality_20 9
+
+CONTIG: 10 (728bp)
+Best alignment score: 727.0 (LEN: 728, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 26006 26732 | 728 1 | 727 728 | 99.86 | consensus_Consensus_consensus_threshold_0_quality_20 10
+
+CONTIG: 11 (12684bp)
+Best alignment score: 12681.7 (LEN: 12683, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 6596 19277 | 2 12684 | 12682 12683 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 11
+
+CONTIG: 12 (11140bp)
+Best alignment score: 11138.9 (LEN: 11140, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 11162 | 11140 1 | 11139 11140 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 12
+
+CONTIG: 13 (13909bp)
+Best alignment score: 13906.6 (LEN: 13908, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 5370 19277 | 2 13909 | 13908 13908 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 13
+
+CONTIG: 14 (2830bp)
+Best alignment score: 2828.9 (LEN: 2830, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 22509 25338 | 2830 1 | 2830 2830 | 99.96 | consensus_Consensus_consensus_threshold_0_quality_20 14
+
+CONTIG: 16 (2787bp)
+Best alignment score: 2786.0 (LEN: 2786, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 19539 22324 | 2 2787 | 2786 2786 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 16
+
+CONTIG: 17 (19255bp)
+Best alignment score: 19255.0 (LEN: 19255, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 23 19277 | 1 19255 | 19255 19255 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 17
+
+CONTIG: 18 (800bp)
+Best alignment score: 799.0 (LEN: 799, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 29037 29835 | 800 2 | 799 799 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 18
+
+CONTIG: 19 (6785bp)
+Best alignment score: 6783.3 (LEN: 6784, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 6806 | 6785 2 | 6783 6784 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 19
+
+CONTIG: 20 (11823bp)
+Best alignment score: 11820.8 (LEN: 11822, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 11844 | 11823 2 | 11821 11822 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 20
+
+CONTIG: 21 (16108bp)
+Best alignment score: 16105.4 (LEN: 16107, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 16129 | 16108 2 | 16106 16107 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 21
+
+CONTIG: 22 (2281bp)
+Best alignment score: 2279.1 (LEN: 2280, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 26006 28284 | 2281 2 | 2279 2280 | 99.96 | consensus_Consensus_consensus_threshold_0_quality_20 22
+
+CONTIG: 23 (8242bp)
+Best alignment score: 8240.2 (LEN: 8241, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 11038 19277 | 2 8242 | 8240 8241 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 23
+
+CONTIG: 24 (3236bp)
+Best alignment score: 3235.0 (LEN: 3236, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 26602 29836 | 1 3236 | 3235 3236 | 99.97 | consensus_Consensus_consensus_threshold_0_quality_20 24
+
+CONTIG: 25 (801bp)
+Best alignment score: 800.0 (LEN: 800, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 29037 29836 | 801 2 | 800 800 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 25
+
+CONTIG: 27 (7545bp)
+Best alignment score: 7543.2 (LEN: 7544, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 11735 19277 | 2 7545 | 7543 7544 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 27
+
+CONTIG: 28 (19254bp)
+Best alignment score: 19253.0 (LEN: 19253, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25 19277 | 2 19254 | 19253 19253 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 28
+
+CONTIG: 29 (11162bp)
+Best alignment score: 11159.9 (LEN: 11161, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 11183 | 11162 2 | 11160 11161 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 29
+
+CONTIG: 30 (8272bp)
+Best alignment score: 8270.2 (LEN: 8271, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 11008 19277 | 2 8272 | 8270 8271 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 30
+
+CONTIG: 32 (2829bp)
+Best alignment score: 2828.0 (LEN: 2828, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22509 25336 | 2 2829 | 2828 2828 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 32
+
+CONTIG: 33 (2786bp)
+Best alignment score: 2785.0 (LEN: 2785, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 19540 22324 | 2 2786 | 2785 2785 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 33
+
+CONTIG: 34 (3874bp)
+Best alignment score: 3872.8 (LEN: 3874, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 25963 29836 | 1 3874 | 3874 3874 | 99.97 | consensus_Consensus_consensus_threshold_0_quality_20 34
+
+CONTIG: 35 (9888bp)
+Best alignment score: 9886.0 (LEN: 9887, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 9391 19277 | 2 9888 | 9887 9887 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 35
+
+CONTIG: 36 (985bp)
+Best alignment score: 983.0 (LEN: 984, IDY: 99.90), Total number of alignments: 1
+		One align captures most of this contig: 18295 19277 | 2 985 | 983 984 | 99.9 | consensus_Consensus_consensus_threshold_0_quality_20 36
+
+CONTIG: 37 (18917bp)
+Best alignment score: 18914.1 (LEN: 18916, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 361 19277 | 2 18917 | 18917 18916 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 37
+
+CONTIG: 38 (18396bp)
+Best alignment score: 18393.2 (LEN: 18395, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 24 18417 | 18396 2 | 18394 18395 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 38
+
+CONTIG: 39 (4578bp)
+Best alignment score: 4577.0 (LEN: 4577, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25260 29836 | 2 4578 | 4577 4577 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 39
+
+CONTIG: 40 (1737bp)
+Best alignment score: 1735.0 (LEN: 1736, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 28102 29836 | 2 1737 | 1735 1736 | 99.94 | consensus_Consensus_consensus_threshold_0_quality_20 40
+
+CONTIG: 41 (5566bp)
+Best alignment score: 5564.9 (LEN: 5566, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 24 5589 | 5566 1 | 5566 5566 | 99.98 | consensus_Consensus_consensus_threshold_0_quality_20 41
+
+CONTIG: 42 (19255bp)
+Best alignment score: 19254.0 (LEN: 19254, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 24 19277 | 19255 2 | 19254 19254 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 42
+
+Analyzing coverage...
+Writing SNPs into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_16_44_55/combined_reference/contigs_reports/minimap_output/33_380-30.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_16_44_55/combined_reference/contigs_reports/minimap_output/33_380-30.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Interspecies translocations: 0
+		Inversions: 0
+	Potentially Misassembled Contigs (i/s translocations): 0
+		Possible Misassemblies: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 29369
+
+	SNPs: 6
+	Insertions: 20
+	Deletions: 1
+

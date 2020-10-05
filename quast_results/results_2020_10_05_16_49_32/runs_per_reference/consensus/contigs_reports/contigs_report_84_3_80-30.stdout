@@ -1,0 +1,121 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [consensus_Consensus_consensus_threshold_0_quality_20]
+	Total Regions: 1
+	Total Region Length: 29859
+Analyzing contigs...
+CONTIG: 0 (11266bp)
+Best alignment score: 11265.0 (LEN: 11265, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 11061 22325 | 11266 2 | 11265 11265 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 0
+
+CONTIG: 1 (11287bp)
+Best alignment score: 11284.9 (LEN: 11286, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 11041 22325 | 2 11287 | 11285 11286 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 1
+
+CONTIG: 2 (5509bp)
+Best alignment score: 5506.9 (LEN: 5508, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 23535 29042 | 2 5509 | 5508 5508 | 99.98 | consensus_Consensus_consensus_threshold_0_quality_20 2
+
+CONTIG: 3 (6428bp)
+Best alignment score: 6425.7 (LEN: 6427, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 15900 22325 | 2 6428 | 6426 6427 | 99.98 | consensus_Consensus_consensus_threshold_0_quality_20 3
+
+CONTIG: 4 (22293bp)
+Best alignment score: 22292.0 (LEN: 22292, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 34 22325 | 2 22293 | 22292 22292 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 4
+
+CONTIG: 5 (22294bp)
+Best alignment score: 22293.0 (LEN: 22293, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 33 22325 | 2 22294 | 22293 22293 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 5
+
+CONTIG: 6 (2480bp)
+Best alignment score: 2479.0 (LEN: 2480, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 26564 29042 | 1 2480 | 2479 2480 | 99.96 | consensus_Consensus_consensus_threshold_0_quality_20 6
+
+CONTIG: 7 (884bp)
+Best alignment score: 883.0 (LEN: 884, IDY: 99.89), Total number of alignments: 1
+		One align captures most of this contig: 28201 29083 | 884 1 | 883 884 | 99.89 | consensus_Consensus_consensus_threshold_0_quality_20 7
+
+CONTIG: 8 (18686bp)
+Best alignment score: 18684.1 (LEN: 18686, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 3640 22325 | 1 18686 | 18686 18686 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 8
+
+CONTIG: 9 (11265bp)
+Best alignment score: 11264.0 (LEN: 11264, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 11061 22324 | 11265 2 | 11264 11264 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 9
+
+CONTIG: 10 (10226bp)
+Best alignment score: 10225.0 (LEN: 10226, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 12100 22325 | 1 10226 | 10226 10226 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 10
+
+CONTIG: 12 (7331bp)
+Best alignment score: 7330.0 (LEN: 7330, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22510 29839 | 7331 2 | 7330 7330 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 12
+
+CONTIG: 13 (6129bp)
+Best alignment score: 6126.8 (LEN: 6128, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 23712 29839 | 6129 2 | 6128 6128 | 99.98 | consensus_Consensus_consensus_threshold_0_quality_20 13
+
+CONTIG: 17 (6534bp)
+Best alignment score: 6533.0 (LEN: 6533, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22510 29042 | 2 6534 | 6533 6533 | 100.0 | consensus_Consensus_consensus_threshold_0_quality_20 17
+
+CONTIG: 19 (890bp)
+Best alignment score: 889.0 (LEN: 890, IDY: 99.89), Total number of alignments: 1
+		One align captures most of this contig: 28154 29042 | 1 890 | 889 890 | 99.89 | consensus_Consensus_consensus_threshold_0_quality_20 19
+
+CONTIG: 20 (6748bp)
+Best alignment score: 6746.3 (LEN: 6747, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 34 6779 | 6748 2 | 6746 6747 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 20
+
+CONTIG: 21 (1156bp)
+Best alignment score: 1154.0 (LEN: 1155, IDY: 99.91), Total number of alignments: 1
+		One align captures most of this contig: 11061 12215 | 1156 2 | 1155 1155 | 99.91 | consensus_Consensus_consensus_threshold_0_quality_20 21
+
+CONTIG: 22 (15779bp)
+Best alignment score: 15776.4 (LEN: 15778, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 6549 22325 | 2 15779 | 15777 15778 | 99.99 | consensus_Consensus_consensus_threshold_0_quality_20 22
+
+CONTIG: 24 (3724bp)
+Best alignment score: 3721.9 (LEN: 3723, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 34 3756 | 3724 2 | 3723 3723 | 99.97 | consensus_Consensus_consensus_threshold_0_quality_20 24
+
+CONTIG: 25 (5028bp)
+Best alignment score: 5026.0 (LEN: 5027, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 11061 16086 | 5028 2 | 5026 5027 | 99.98 | consensus_Consensus_consensus_threshold_0_quality_20 25
+
+Analyzing coverage...
+Writing SNPs into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_16_49_32/runs_per_reference/consensus/contigs_reports/minimap_output/84_3_80-30.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_16_49_32/runs_per_reference/consensus/contigs_reports/minimap_output/84_3_80-30.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 29623
+
+	SNPs: 6
+	Insertions: 8
+	Deletions: 0
+

@@ -1,0 +1,14 @@
+reference chromosomes:
+	consensus_Consensus_consensus_threshold_0_quality_20 (total length: 29843 bp, total length without N's: 29822 bp, maximal covered length: 29602 bp)
+
+total genome size: 29843
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+33_3_80-30_to_consensus  | 99.262    | 7.705       | 1         | -         | -         | -         | -         |

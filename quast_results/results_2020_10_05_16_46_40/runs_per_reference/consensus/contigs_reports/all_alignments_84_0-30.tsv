@@ -1,0 +1,57 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+33	11066	2	11035	consensus_Consensus_consensus_threshold_0_quality_20	0	100.0		True
+CONTIG	0	11035	correct
+28200	29070	873	2	consensus_Consensus_consensus_threshold_0_quality_20	3	99.89		True
+CONTIG	3	873	correct
+34	11120	11088	1	consensus_Consensus_consensus_threshold_0_quality_20	4	99.99		True
+CONTIG	4	11088	correct
+25310	29839	4531	2	consensus_Consensus_consensus_threshold_0_quality_20	5	100.0		True
+CONTIG	5	4531	correct
+15886	22325	1	6441	consensus_Consensus_consensus_threshold_0_quality_20	6	99.98		True
+CONTIG	6	6441	correct
+22507	25336	2	2831	consensus_Consensus_consensus_threshold_0_quality_20	7	100.0		True
+CONTIG	7	2831	correct
+34	16061	16030	2	consensus_Consensus_consensus_threshold_0_quality_20	9	99.99		True
+CONTIG	9	16030	correct
+12104	22325	2	10223	consensus_Consensus_consensus_threshold_0_quality_20	10	99.99		True
+CONTIG	10	10223	correct
+28169	29041	2	875	consensus_Consensus_consensus_threshold_0_quality_20	11	99.89		True
+CONTIG	11	875	correct
+3567	11066	2	7501	consensus_Consensus_consensus_threshold_0_quality_20	13	99.99		True
+CONTIG	13	7501	correct
+34	6774	6742	1	consensus_Consensus_consensus_threshold_0_quality_20	14	99.99		True
+CONTIG	14	6742	correct
+34	3774	3742	2	consensus_Consensus_consensus_threshold_0_quality_20	15	99.97		True
+CONTIG	15	3742	correct
+23512	25336	2	1826	consensus_Consensus_consensus_threshold_0_quality_20	16	99.95		True
+CONTIG	16	1826	correct
+29036	29839	2	805	consensus_Consensus_consensus_threshold_0_quality_20	17	100.0		True
+CONTIG	17	805	correct
+29013	29839	1	828	consensus_Consensus_consensus_threshold_0_quality_20	18	99.88		True
+CONTIG	18	828	correct
+22507	23820	1315	2	consensus_Consensus_consensus_threshold_0_quality_20	19	99.92		True
+CONTIG	19	1315	correct
+22507	25338	2832	1	consensus_Consensus_consensus_threshold_0_quality_20	20	99.96		True
+CONTIG	20	2832	correct
+34	11135	11102	2	consensus_Consensus_consensus_threshold_0_quality_20	21	99.99		True
+CONTIG	21	11102	correct
+11038	22325	1	11289	consensus_Consensus_consensus_threshold_0_quality_20	22	99.99		True
+CONTIG	22	11289	correct
+25310	29838	4530	2	consensus_Consensus_consensus_threshold_0_quality_20	23	100.0		True
+CONTIG	23	4530	correct
+25310	28308	3000	1	consensus_Consensus_consensus_threshold_0_quality_20	24	99.97		True
+CONTIG	24	3000	correct
+25256	29041	2	3787	consensus_Consensus_consensus_threshold_0_quality_20	25	100.0		True
+CONTIG	25	3787	correct
+34	11066	2	11034	consensus_Consensus_consensus_threshold_0_quality_20	26	100.0		True
+CONTIG	26	11034	correct
+34	22325	22293	2	consensus_Consensus_consensus_threshold_0_quality_20	27	100.0		True
+CONTIG	27	22293	correct
+34	22324	22292	2	consensus_Consensus_consensus_threshold_0_quality_20	28	100.0		True
+CONTIG	28	22292	correct
+6590	11066	2	4479	consensus_Consensus_consensus_threshold_0_quality_20	30	99.98		True
+CONTIG	30	4479	correct
+34	21117	21085	1	consensus_Consensus_consensus_threshold_0_quality_20	31	100.0		True
+CONTIG	31	21085	correct
+34	12232	12200	2	consensus_Consensus_consensus_threshold_0_quality_20	32	99.99		True
+CONTIG	32	12200	correct

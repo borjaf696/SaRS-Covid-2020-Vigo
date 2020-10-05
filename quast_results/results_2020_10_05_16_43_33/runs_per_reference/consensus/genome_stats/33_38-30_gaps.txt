@@ -1,0 +1,3 @@
+consensus_Consensus_consensus_threshold_0_quality_20
+19267 19527
+22314 22497
