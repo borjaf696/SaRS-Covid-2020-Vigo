@@ -1,0 +1,161 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [reference_covid_MN908947.3]
+	Total Regions: 1
+	Total Region Length: 29903
+Analyzing contigs...
+CONTIG: 0 (2787bp)
+Best alignment score: 2784.9 (LEN: 2786, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 19554 22339 | 2787 2 | 2786 2786 | 99.96 | reference_covid_MN908947.3 0
+
+CONTIG: 1 (4527bp)
+Best alignment score: 4526.0 (LEN: 4526, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25325 29850 | 4527 2 | 4526 4526 | 100.0 | reference_covid_MN908947.3 1
+
+CONTIG: 2 (4528bp)
+Best alignment score: 4527.0 (LEN: 4527, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25325 29851 | 4528 2 | 4527 4527 | 100.0 | reference_covid_MN908947.3 2
+
+CONTIG: 3 (742bp)
+Best alignment score: 740.0 (LEN: 741, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 25325 26065 | 742 2 | 741 741 | 99.87 | reference_covid_MN908947.3 3
+
+CONTIG: 4 (2786bp)
+Best alignment score: 2783.9 (LEN: 2785, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 19554 22338 | 2786 2 | 2785 2785 | 99.96 | reference_covid_MN908947.3 4
+
+CONTIG: 5 (2829bp)
+Best alignment score: 2826.9 (LEN: 2828, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 22524 25351 | 2 2829 | 2828 2828 | 99.96 | reference_covid_MN908947.3 5
+
+CONTIG: 7 (1373bp)
+Best alignment score: 1372.0 (LEN: 1372, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 25288 26659 | 2 1373 | 1372 1372 | 100.0 | reference_covid_MN908947.3 7
+
+CONTIG: 8 (2787bp)
+Best alignment score: 2784.9 (LEN: 2786, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 19554 22339 | 2 2787 | 2786 2786 | 99.96 | reference_covid_MN908947.3 8
+
+CONTIG: 9 (13777bp)
+Best alignment score: 13774.6 (LEN: 13776, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 5517 19292 | 13777 2 | 13776 13776 | 99.99 | reference_covid_MN908947.3 9
+
+CONTIG: 11 (680bp)
+Best alignment score: 678.0 (LEN: 679, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 25981 26659 | 2 680 | 679 679 | 99.85 | reference_covid_MN908947.3 11
+
+CONTIG: 12 (2830bp)
+Best alignment score: 2828.0 (LEN: 2830, IDY: 99.93), Total number of alignments: 1
+		One align captures most of this contig: 22524 25353 | 2830 1 | 2830 2830 | 99.93 | reference_covid_MN908947.3 12
+
+CONTIG: 13 (13858bp)
+Best alignment score: 13855.6 (LEN: 13857, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 5431 19287 | 2 13858 | 13857 13857 | 99.99 | reference_covid_MN908947.3 13
+
+CONTIG: 14 (8239bp)
+Best alignment score: 8237.4 (LEN: 8239, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 11050 19287 | 1 8239 | 8238 8239 | 99.98 | reference_covid_MN908947.3 14
+
+CONTIG: 15 (3423bp)
+Best alignment score: 3421.0 (LEN: 3422, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 15867 19287 | 2 3423 | 3421 3422 | 99.97 | reference_covid_MN908947.3 15
+
+CONTIG: 16 (8238bp)
+Best alignment score: 8235.4 (LEN: 8237, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 11052 19287 | 2 8238 | 8236 8237 | 99.98 | reference_covid_MN908947.3 16
+
+CONTIG: 18 (872bp)
+Best alignment score: 871.0 (LEN: 872, IDY: 99.89), Total number of alignments: 1
+		One align captures most of this contig: 28186 29056 | 1 872 | 871 872 | 99.89 | reference_covid_MN908947.3 18
+
+CONTIG: 19 (5507bp)
+Best alignment score: 5504.2 (LEN: 5507, IDY: 99.95), Total number of alignments: 1
+		One align captures most of this contig: 39 5545 | 5507 1 | 5507 5507 | 99.95 | reference_covid_MN908947.3 19
+
+CONTIG: 20 (18870bp)
+Best alignment score: 18868.1 (LEN: 18870, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 418 19287 | 1 18870 | 18870 18870 | 99.99 | reference_covid_MN908947.3 20
+
+CONTIG: 21 (1646bp)
+Best alignment score: 1644.0 (LEN: 1645, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 9503 11146 | 1646 2 | 1644 1645 | 99.94 | reference_covid_MN908947.3 21
+
+CONTIG: 22 (2951bp)
+Best alignment score: 2950.1 (LEN: 2951, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 25325 28274 | 2951 1 | 2950 2951 | 99.97 | reference_covid_MN908947.3 22
+
+CONTIG: 23 (1376bp)
+Best alignment score: 1374.0 (LEN: 1375, IDY: 99.93), Total number of alignments: 1
+		One align captures most of this contig: 25325 26698 | 1376 2 | 1374 1375 | 99.93 | reference_covid_MN908947.3 23
+
+CONTIG: 24 (9856bp)
+Best alignment score: 9853.0 (LEN: 9855, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 9433 19287 | 2 9856 | 9855 9855 | 99.98 | reference_covid_MN908947.3 24
+
+CONTIG: 25 (2786bp)
+Best alignment score: 2783.9 (LEN: 2785, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 19555 22339 | 2 2786 | 2785 2785 | 99.96 | reference_covid_MN908947.3 25
+
+CONTIG: 26 (10622bp)
+Best alignment score: 10618.9 (LEN: 10621, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 5517 16136 | 10622 2 | 10620 10621 | 99.98 | reference_covid_MN908947.3 26
+
+CONTIG: 27 (13776bp)
+Best alignment score: 13773.6 (LEN: 13775, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 5517 19291 | 13776 2 | 13775 13775 | 99.99 | reference_covid_MN908947.3 27
+
+CONTIG: 28 (12728bp)
+Best alignment score: 12724.5 (LEN: 12727, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 6562 19287 | 2 12728 | 12726 12727 | 99.98 | reference_covid_MN908947.3 28
+
+CONTIG: 31 (4022bp)
+Best alignment score: 4020.2 (LEN: 4021, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 5517 9537 | 4022 2 | 4021 4021 | 99.98 | reference_covid_MN908947.3 31
+
+CONTIG: 32 (1293bp)
+Best alignment score: 1291.0 (LEN: 1292, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 5517 6807 | 1293 2 | 1291 1292 | 99.92 | reference_covid_MN908947.3 32
+
+CONTIG: 33 (3771bp)
+Best alignment score: 3769.9 (LEN: 3771, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 25325 29094 | 3771 1 | 3770 3771 | 99.97 | reference_covid_MN908947.3 33
+
+CONTIG: 34 (2427bp)
+Best alignment score: 2426.0 (LEN: 2427, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 26631 29056 | 1 2427 | 2426 2427 | 99.96 | reference_covid_MN908947.3 34
+
+Analyzing coverage...
+Writing SNPs into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_22_03/runs_per_reference/reference_covid/contigs_reports/minimap_output/33_38-30.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_22_03/runs_per_reference/reference_covid/contigs_reports/minimap_output/33_38-30.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 29368
+
+	SNPs: 25
+	Insertions: 12
+	Deletions: 0
+

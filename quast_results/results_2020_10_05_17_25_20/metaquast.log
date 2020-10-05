@@ -1,0 +1,83 @@
+/home/bfreire/quast-5.0.1/metaquast.py --unique-mapping -r ../reference_covid.fa 84_380/84_380.30.fa
+
+Version: 5.0.1, 49b8913
+
+System information:
+  OS: Linux-5.4.0-0.bpo.3-amd64-x86_64-with-debian-10.6 (linux_64)
+  Python version: 2.7.16
+  CPUs number: 32
+
+Started: 2020-10-05 17:25:20
+
+Logging to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/metaquast.log
+NOTICE: Maximum number of threads is set to 8 (use --threads option to set it manually)
+
+Reference(s):
+  ../reference_covid.fa ==> reference_covid
+  All references were combined in combined_reference.fasta
+
+Contigs:
+  Pre-processing...
+  84_380/84_380.30.fa ==> 84_380.30
+
+Starting quast.py for the combined reference...
+(logging to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/combined_reference/quast.log)
+
+Partitioning contigs into bins aligned to each reference..
+  processing 84_380.30
+
+Starting quast.py for the contigs aligned to reference_covid... (logging to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/runs_per_reference/reference_covid/quast.log)
+
+Skipping quast.py for the contigs not aligned anywhere (everything is aligned!)
+
+2020-10-05 17:25:29
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for 84_380.30...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/84_380-30_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/summary/
+  Icarus (contig browser) is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/icarus.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/report.html
+
+MetaQUAST finished.
+  Log is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_25_20/metaquast.log
+
+Finished: 2020-10-05 17:25:32
+Elapsed time: 0:00:11.603337
+Total NOTICEs: 6; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

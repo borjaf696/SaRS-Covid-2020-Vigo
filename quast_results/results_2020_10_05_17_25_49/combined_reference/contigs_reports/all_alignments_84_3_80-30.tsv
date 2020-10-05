@@ -1,0 +1,41 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+11075	22339	11266	2	reference_covid_MN908947.3	0	99.98		True
+CONTIG	0	11266	correct
+11055	22339	2	11287	reference_covid_MN908947.3	1	99.97		True
+CONTIG	1	11287	correct
+23549	29056	2	5509	reference_covid_MN908947.3	2	99.91		True
+CONTIG	2	5509	correct
+15914	22339	2	6428	reference_covid_MN908947.3	3	99.98		True
+CONTIG	3	6428	correct
+48	22339	2	22293	reference_covid_MN908947.3	4	99.98		True
+CONTIG	4	22293	correct
+47	22339	2	22294	reference_covid_MN908947.3	5	99.98		True
+CONTIG	5	22294	correct
+26578	29056	1	2480	reference_covid_MN908947.3	6	99.88		True
+CONTIG	6	2480	correct
+28215	29097	884	1	reference_covid_MN908947.3	7	99.89		True
+CONTIG	7	884	correct
+3654	22339	1	18686	reference_covid_MN908947.3	8	99.98		True
+CONTIG	8	18686	correct
+11075	22338	11265	2	reference_covid_MN908947.3	9	99.98		True
+CONTIG	9	11265	correct
+12114	22339	1	10226	reference_covid_MN908947.3	10	99.97		True
+CONTIG	10	10226	correct
+22524	29853	7331	2	reference_covid_MN908947.3	12	99.92		True
+CONTIG	12	7331	correct
+23726	29853	6129	2	reference_covid_MN908947.3	13	99.92		True
+CONTIG	13	6129	correct
+22524	29056	2	6534	reference_covid_MN908947.3	17	99.91		True
+CONTIG	17	6534	correct
+28168	29056	1	890	reference_covid_MN908947.3	19	99.89		True
+CONTIG	19	890	correct
+48	6793	6748	2	reference_covid_MN908947.3	20	99.94		True
+CONTIG	20	6748	correct
+11075	12229	1156	2	reference_covid_MN908947.3	21	99.91		True
+CONTIG	21	1156	correct
+6563	22339	2	15779	reference_covid_MN908947.3	22	99.98		True
+CONTIG	22	15779	correct
+48	3770	3724	2	reference_covid_MN908947.3	24	99.89		True
+CONTIG	24	3724	correct
+11075	16100	5028	2	reference_covid_MN908947.3	25	99.94		True
+CONTIG	25	5028	correct

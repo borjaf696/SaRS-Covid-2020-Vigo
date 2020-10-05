@@ -1,0 +1,61 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+19554	22339	2787	2	reference_covid_MN908947.3	0	99.96		True
+CONTIG	0	2787	correct
+25325	29850	4527	2	reference_covid_MN908947.3	1	100.0		True
+CONTIG	1	4527	correct
+25325	29851	4528	2	reference_covid_MN908947.3	2	100.0		True
+CONTIG	2	4528	correct
+25325	26065	742	2	reference_covid_MN908947.3	3	99.87		True
+CONTIG	3	742	correct
+19554	22338	2786	2	reference_covid_MN908947.3	4	99.96		True
+CONTIG	4	2786	correct
+22524	25351	2	2829	reference_covid_MN908947.3	5	99.96		True
+CONTIG	5	2829	correct
+25288	26659	2	1373	reference_covid_MN908947.3	7	100.0		True
+CONTIG	7	1373	correct
+19554	22339	2	2787	reference_covid_MN908947.3	8	99.96		True
+CONTIG	8	2787	correct
+5517	19292	13777	2	reference_covid_MN908947.3	9	99.99		True
+CONTIG	9	13777	correct
+25981	26659	2	680	reference_covid_MN908947.3	11	99.85		True
+CONTIG	11	680	correct
+22524	25353	2830	1	reference_covid_MN908947.3	12	99.93		True
+CONTIG	12	2830	correct
+5431	19287	2	13858	reference_covid_MN908947.3	13	99.99		True
+CONTIG	13	13858	correct
+11050	19287	1	8239	reference_covid_MN908947.3	14	99.98		True
+CONTIG	14	8239	correct
+15867	19287	2	3423	reference_covid_MN908947.3	15	99.97		True
+CONTIG	15	3423	correct
+11052	19287	2	8238	reference_covid_MN908947.3	16	99.98		True
+CONTIG	16	8238	correct
+28186	29056	1	872	reference_covid_MN908947.3	18	99.89		True
+CONTIG	18	872	correct
+39	5545	5507	1	reference_covid_MN908947.3	19	99.95		True
+CONTIG	19	5507	correct
+418	19287	1	18870	reference_covid_MN908947.3	20	99.99		True
+CONTIG	20	18870	correct
+9503	11146	1646	2	reference_covid_MN908947.3	21	99.94		True
+CONTIG	21	1646	correct
+25325	28274	2951	1	reference_covid_MN908947.3	22	99.97		True
+CONTIG	22	2951	correct
+25325	26698	1376	2	reference_covid_MN908947.3	23	99.93		True
+CONTIG	23	1376	correct
+9433	19287	2	9856	reference_covid_MN908947.3	24	99.98		True
+CONTIG	24	9856	correct
+19555	22339	2	2786	reference_covid_MN908947.3	25	99.96		True
+CONTIG	25	2786	correct
+5517	16136	10622	2	reference_covid_MN908947.3	26	99.98		True
+CONTIG	26	10622	correct
+5517	19291	13776	2	reference_covid_MN908947.3	27	99.99		True
+CONTIG	27	13776	correct
+6562	19287	2	12728	reference_covid_MN908947.3	28	99.98		True
+CONTIG	28	12728	correct
+5517	9537	4022	2	reference_covid_MN908947.3	31	99.98		True
+CONTIG	31	4022	correct
+5517	6807	1293	2	reference_covid_MN908947.3	32	99.92		True
+CONTIG	32	1293	correct
+25325	29094	3771	1	reference_covid_MN908947.3	33	99.97		True
+CONTIG	33	3771	correct
+26631	29056	1	2427	reference_covid_MN908947.3	34	99.96		True
+CONTIG	34	2427	correct

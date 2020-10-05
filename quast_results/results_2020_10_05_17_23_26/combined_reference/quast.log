@@ -1,0 +1,100 @@
+/home/bfreire/quast-5.0.1/quast.pyc --combined-ref --colors #E31A1C --ls solid 33_380/33_380.30.fa -R /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/quast_corrected_input/combined_reference.fasta -o /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference --labels 33_380.30
+
+Started: 2020-10-05 17:23:26
+
+Logging to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/quast.log
+NOTICE: Maximum number of threads is set to 8 (use --threads option to set it manually)
+
+CWD: /home/bfreire/Datasets/DatosDavid/results_david
+Main parameters: 
+  MODE: meta, threads: 8, minimum contig length: 500, minimum alignment length: 65, ambiguity: one, \
+  threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  33_380/33_380.30.fa ==> 33_380.30
+
+2020-10-05 17:23:26
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 29903, num fragments = 1, GC % = 37.97
+  Contig files: 
+    33_380.30
+  Calculating N50 and L50...
+    33_380.30, N50 = 13909, L50 = 9, Total length = 306475, GC % = 38.00, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing 33_380.30 GC content plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/basic_stats/33_380.30_GC_content_plot.pdf
+Done.
+
+2020-10-05 17:23:28
+Running Contig analyzer...
+  33_380.30
+  Logging to files /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/contigs_report_33_380-30.stdout and contigs_report_33_380-30.stderr...
+  Aligning contigs to the reference
+  /home/bfreire/quast-5.0.1/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join \
+  -r 85 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs \
+  -t 8 quast_results/results_2020_10_05_17_23_26/quast_corrected_input/combined_reference.fasta \
+  quast_results/results_2020_10_05_17_23_26/quast_corrected_input/33_380_30.fa > quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/minimap_output/33_380-30.coords_tmp \
+  2>> quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/contigs_report_33_380-30.stderr
+  Alignments: quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/alignments_33_380-30.tsv
+  Analysis is finished.
+
+  Information about interspecies translocations by references for 33_380_30 is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/interspecies_translocations_by_refs_33_380_30.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-10-05 17:23:29
+Running NA-NGA calculation...
+  33_380.30, Largest alignment = 19255, NA50 = 13908, LA50 = 9
+  Drawing cumulative plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2020-10-05 17:23:30
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  33_380.30
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-10-05 17:23:30
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-10-05 17:23:32
+RESULTS:
+  Text versions of total report are saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/report.html
+  PDF version (tables and plots) is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /home/bfreire/Datasets/DatosDavid/results_david/quast_results/results_2020_10_05_17_23_26/combined_reference/icarus.html
