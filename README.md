@@ -13,6 +13,10 @@ La información provista por directorio sería:
    
    * reads_variants.tsv - variantes reportadas por iVar en formato tsv para las lecturas con threshold 0.03.
    * contigs_variants.tsv - variantes reportadas por iVar en formato tsv para los contigs sin threshold.
+ * Coordenadas de los contigs en el genoma de referencia:
+   
+   * contigs.coords - posiciones donde alinea cada uno de los contigs (eso + contigs_variants.tsv permite ubicar las variantes en un mismo contig)
+   
 
 # Table summary reports
 
