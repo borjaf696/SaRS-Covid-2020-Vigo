@@ -10,6 +10,9 @@ La información provista por directorio sería:
    * MN908947.3 as reference.
    * Consensus as reference.
  * Variantes reportadas por iVar.
+   
+   * reads_variants.tsv - variantes reportadas por iVar en formato tsv para las lecturas con threshold 0.03.
+   * contigs_variants.tsv - variantes reportadas por iVar en formato tsv para los contigs sin threshold.
 
 # Table summary reports
 
