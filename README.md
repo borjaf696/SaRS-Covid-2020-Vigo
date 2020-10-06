@@ -16,6 +16,15 @@ La información provista por directorio sería:
  * Coordenadas de los contigs en el genoma de referencia:
    
    * contigs.coords - posiciones donde alinea cada uno de los contigs (eso + contigs_variants.tsv permite ubicar las variantes en un mismo contig)
+ * Procesamiento de TSVs:
+   
+   * filtered.tsv - SNPs que pasan el test exacto de fisher (p_val < 0.05)
+   * hits.tsv - SNPS que habiendo pasado el test previo además son reconocidos por viaDBG.
+      
+      * viaDBG parece solo detectar aquellos SNPs que han pasado el test de Fisher (probablemente debido a que suelen ser los de mayor frecuencia).
+      * viaDBG parece que inserciones o deleciones cortas en baja frecuencia las omite.
+      * viaDBG permite, en base a la experiencia, detectar solo variantes con frecuencias por encima de 100 en profundidad de lecturas (probablemente debido a la etapa de selección de k-mer sólidos donde establece una umbralización global)
+   * A mayores se incorpora el script check_vars.py que permite producir los ficheros anteriormente mencionados a partir de los 'tsv' originales.
    
 
 # Table summary reports
