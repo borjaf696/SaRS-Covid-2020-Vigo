@@ -1,0 +1,2 @@
+Assemblies       84_0.30
+reference_covid  22292  

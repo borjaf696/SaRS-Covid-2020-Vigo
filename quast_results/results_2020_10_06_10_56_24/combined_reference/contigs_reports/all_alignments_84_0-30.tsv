@@ -1,0 +1,57 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+48	11081	2	11035	reference_covid_MN908947.3	0	99.97		True
+CONTIG	0	11035	correct
+28215	29085	873	2	reference_covid_MN908947.3	3	99.89		True
+CONTIG	3	873	correct
+49	11135	11088	1	reference_covid_MN908947.3	4	99.96		True
+CONTIG	4	11088	correct
+25325	29854	4531	2	reference_covid_MN908947.3	5	99.93		True
+CONTIG	5	4531	correct
+15901	22340	1	6441	reference_covid_MN908947.3	6	99.98		True
+CONTIG	6	6441	correct
+22522	25351	2	2831	reference_covid_MN908947.3	7	99.89		True
+CONTIG	7	2831	correct
+49	16076	16030	2	reference_covid_MN908947.3	9	99.96		True
+CONTIG	9	16030	correct
+12119	22340	2	10223	reference_covid_MN908947.3	10	99.97		True
+CONTIG	10	10223	correct
+28184	29056	2	875	reference_covid_MN908947.3	11	99.89		True
+CONTIG	11	875	correct
+3582	11081	2	7501	reference_covid_MN908947.3	13	99.99		True
+CONTIG	13	7501	correct
+49	6789	6742	1	reference_covid_MN908947.3	14	99.94		True
+CONTIG	14	6742	correct
+49	3789	3742	2	reference_covid_MN908947.3	15	99.89		True
+CONTIG	15	3742	correct
+23527	25351	2	1826	reference_covid_MN908947.3	16	99.89		True
+CONTIG	16	1826	correct
+29051	29854	2	805	reference_covid_MN908947.3	17	100.0		True
+CONTIG	17	805	correct
+29028	29854	1	828	reference_covid_MN908947.3	18	99.88		True
+CONTIG	18	828	correct
+22522	23835	1315	2	reference_covid_MN908947.3	19	99.77		True
+CONTIG	19	1315	correct
+22522	25353	2832	1	reference_covid_MN908947.3	20	99.86		True
+CONTIG	20	2832	correct
+49	11150	11102	2	reference_covid_MN908947.3	21	99.96		True
+CONTIG	21	11102	correct
+11053	22340	1	11289	reference_covid_MN908947.3	22	99.97		True
+CONTIG	22	11289	correct
+25325	29853	4530	2	reference_covid_MN908947.3	23	99.93		True
+CONTIG	23	4530	correct
+25325	28323	3000	1	reference_covid_MN908947.3	24	99.87		True
+CONTIG	24	3000	correct
+25271	29056	2	3787	reference_covid_MN908947.3	25	99.92		True
+CONTIG	25	3787	correct
+49	11081	2	11034	reference_covid_MN908947.3	26	99.97		True
+CONTIG	26	11034	correct
+49	22340	22293	2	reference_covid_MN908947.3	27	99.98		True
+CONTIG	27	22293	correct
+49	22339	22292	2	reference_covid_MN908947.3	28	99.98		True
+CONTIG	28	22292	correct
+6605	11081	2	4479	reference_covid_MN908947.3	30	99.98		True
+CONTIG	30	4479	correct
+49	21132	21085	1	reference_covid_MN908947.3	31	99.97		True
+CONTIG	31	21085	correct
+49	12247	12200	2	reference_covid_MN908947.3	32	99.97		True
+CONTIG	32	12200	correct
