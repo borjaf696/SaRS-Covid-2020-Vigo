@@ -25,7 +25,7 @@ La información provista por directorio sería:
       * viaDBG parece que inserciones o deleciones cortas en baja frecuencia las omite.
       * viaDBG permite, en base a la experiencia, detectar solo variantes con frecuencias por encima de 100 en profundidad de lecturas (probablemente debido a la etapa de selección de k-mer sólidos donde establece una umbralización global)
    * A mayores se incorpora el script check_vars.py que permite producir los ficheros anteriormente mencionados a partir de los 'tsv' originales.
-   
+* Todo: NextClade analysis ** Pending **.
 
 # Table summary reports
 
